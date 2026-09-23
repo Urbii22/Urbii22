@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Diego 👋
 
 **Junior SOC Analyst / Blue Team** · Computer Engineer (Universidad de Burgos) · Spain, open to relocation within the EU
