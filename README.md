@@ -1,40 +1,33 @@
-# Hi, I'm Diego 👋
+# Diego Urbaneja Portal
 
-**Junior SOC Analyst / Blue Team** · Computer Engineer (Universidad de Burgos) · Spain, open to relocation within the EU
+Junior SOC analyst. Computer Engineering graduate from Universidad de Burgos, based in Spain and open to remote work or relocation within the EU.
 
-I investigate alerts, suspicious email and network traffic (TryHackMe top 2% globally), and I document every case with context, evidence, timeline and a clear verdict. My software background helps me build my own security tooling.
+I hold the TryHackMe SAL1 certification and I am currently studying a master's in cybersecurity and AI. Most of my practice so far comes from TryHackMe labs (220+ rooms): alert triage, phishing analysis, Windows and Sysmon logs, and network traffic in Wireshark.
 
-🌐 [diegourbaneja.dev](https://diegourbaneja.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/diegourbanejaportal) · 🛡️ [TryHackMe](https://tryhackme.com/p/Urbi22) · 📄 [CV (PDF)](https://diegourbaneja.dev/cv/diego-urbaneja-portal-cv.pdf)
+[Website](https://diegourbaneja.dev) | [LinkedIn](https://www.linkedin.com/in/diegourbanejaportal) | [TryHackMe](https://tryhackme.com/p/Urbi22) | [CV](https://diegourbaneja.dev/cv/diego-urbaneja-portal-cv.pdf)
 
----
+## Training
 
-## 🔎 Focus
+- TryHackMe Security Analyst Level 1 (SAL1), 2026. [Verify](https://www.credly.com/badges/370befeb-1838-4ee6-92de-2814a4e24eda/public_url)
+- Master's in Cybersecurity and AI, EVOLVE, in progress
+- BSc in Computer Engineering, Universidad de Burgos, 2021-2025
+- English C1
 
-- **Detection & analysis:** Splunk (SPL), Elastic (KQL), Sigma, Wireshark, Windows/Sysmon log analysis, alert triage, phishing analysis, IOC, MITRE ATT&CK
-- **Systems & networks:** Linux, Windows, Active Directory, TCP/IP, DNS, HTTP/HTTPS
-- **Offensive basics (lab only):** Nmap, Burp Suite, Metasploit, BloodHound
-- **Development:** Python, Java, SQL, TypeScript, Docker, GitHub Actions
+## Projects
 
-## 🏅 Certifications & training
+**[SOC-Simulator](https://github.com/Urbii22/SOC-Simulator)**
+A local lab to practise SOC triage. It has 30 scenarios built on synthetic logs (Sysmon, Suricata, DNS, email, cloud and others), a search console that accepts SPL queries, and an optional Elastic/Kibana setup. I built it to practise the kind of investigation I was doing on TryHackMe without depending on their labs. TypeScript, Node.js, Docker.
 
-<!-- Cuando apruebes el SAL1, saca la línea siguiente del comentario y pon el enlace real:
-- **TryHackMe Security Analyst Level 1 (SAL1)**, 2026 · [verify](RELLENAR_ENLACE_VERIFICACION)
--->
-- TryHackMe SOC Level 1 path + 220+ rooms (networks, Linux/Windows, AD, web security)
+**[THM Fieldbook](https://github.com/Urbii22/thm-fieldbook)**
+The tool I use to keep my notes while working through rooms: what I found, what I think is happening, and what to check next. JavaScript, Python.
 
-## 🧰 Security projects
+**[EcoVid / Dig4Vitis](https://github.com/Urbii22/TFG_Dig4Vitis_V2)**
+My bachelor's thesis, later continued as a research job at Universidad de Burgos. It detects copper residue on vine leaves from hyperspectral images. Python, OpenCV, Streamlit.
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [**SOC-Simulator**](https://github.com/Urbii22/SOC-Simulator) | SOC training lab: 30 triage & investigation scenarios over ~2,950 synthetic events from 12 sources (Sysmon, Suricata, DNS, email, cloud…), with KQL/SPL/Sigma references and optional Elastic/Kibana | TypeScript · Node.js · Docker |
-| [THM Fieldbook](https://github.com/Urbii22/thm-fieldbook) | Evidence-driven workspace: findings → hypothesis → next prioritised check; sanitised writeups and playbooks | JS · Python · GitHub Actions |
-| [Evidence Atlas](https://diegourbaneja.dev/projects/evidence-atlas-security) | Threat model and private/public data separation with server-side auth, RLS and sanitised snapshots | Next.js · TypeScript · Supabase |
-| [THM Academy](https://diegourbaneja.dev/projects/thm-academy) | Personal cybersecurity study platform with practice, review and exams | React · TypeScript |
+## Tools I have worked with
 
-## 🧪 Other work
+Splunk, Elastic, Sigma, Wireshark, Sysmon, Linux, Windows, Active Directory, Python, SQL, Docker.
 
-- [**EcoVid / Dig4Vitis**](https://github.com/Urbii22/TFG_Dig4Vitis_V2): hyperspectral image analysis to detect copper on vine leaves (Python, OpenCV, Streamlit, Docker). Bachelor's thesis and research job at Universidad de Burgos.
+## Contact
 
----
-
-📫 Open to **SOC L1 / Blue Team** opportunities: [urbanejaportaldiego@gmail.com](mailto:urbanejaportaldiego@gmail.com)
+urbanejaportaldiego@gmail.com
